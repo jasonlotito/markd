@@ -1,0 +1,14 @@
+{
+  "name": "jasonlotito/markd",
+  "description": "Markdown API Endpoint",
+  "minimum-stability": "alpha",
+  "authors": [
+    {
+      "name": "Jason Lotito",
+      "email": "jasonlotito@gmail.com"
+    }
+  ],
+  "require": {
+    "michelf/php-markdown": "1.3"
+  }
+}
